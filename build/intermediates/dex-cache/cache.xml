@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.android/build-cache/964f88558853d1588bfc6cf1590ad6f13e767a4d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/classes_795c0928bdd95995c978ae91948017b213c34062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.android/build-cache/11fba355d6858e8fad3ed101f47e466d97345a43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/classes_3ce8d1a3f1cac05f2d2fc0a8525e8c06f27d8cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.android/build-cache/8863c29f6290945d60bdbfd59a448d9b3cde685e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/classes_10ef0f784505f2408aa0cfe56400e57257978231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.1.1/6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5/org.eclipse.paho.android.service-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.1.1_2cbc69445fd58b9f671b21c8c79cdf51ddadecc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.1.0/89d827ffa47c241f2627421ef1d6c7a8c207a341/org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.1.0_e30a137e5e571259a223df14cd283d0aeb1f1416.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6418b02db3ca15bb19bac2b6fadb5ac3685dde2">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5293a06da1e944e877bf6d3faf6191eacb07202d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.android/build-cache/607b0d3231fe0ba792172228016cd72f64e6a429/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/classes_8c7defbd0fb3f4e8947c0448e5d873ab23c5cd46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.android/build-cache/61d9bf03ab5ae5ef3c0dbab487bc475fea2e1f74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/classes_9402dc150ffbf8b6aeb03ebd8c95e500e461dbcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.android/build-cache/b7bffc61186dc08c4fc79a2ec7a1c7c5c2704ec1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/classes_22a016a2e794215efc8ca9fe63a62698238ee0c6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ehsan/.android/build-cache/016d01f3a54c9ad142931fb1d9ff1449117191cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf3c6cdf3e1aa3b54debc3026480fcdf1e506df5">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8877a6b9746096e9e04916915f81a9970a117719/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_4b3d152d4c511a56cf8b089993afb7c9db4867e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.android/build-cache/5eaec372a385c6912df5b6c9e1857e8832a4c27a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/classes_d9fdd7dbfed08daeacdbe1f323f9985b8a96fb85.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_112eee63cd829087286daf383ea55ebac7638571/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_d6713c406dc1248f658ea189f569fba96f87229d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.android/build-cache/ddd5c2896e11e480997c3064236840791c5fde16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/classes_cf7ab99c1323a66cc2e396ec9595cd07224ed444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.android/build-cache/444e800121f6022ebd4afa05d06e5572adbbacea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/classes_63fb78022d437105cd161993f3a9a9873dfe7623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.2/5d4eb08a326bdbd7fbbddc769666898c9936b282/MPAndroidChart-v3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v3.0.2_f70aaf7cafe50b88e158e53a21bdc1da79860b18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ehsan/.android/build-cache/3f9a17a2ea0a30361c4e9496165e0f4815a2048c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ehsan/WorkSpaces/Android/mqtt-android-tutorial/app/build/intermediates/pre-dexed/debug/classes_6f3b8e8067e465abadd1700e2ea26f9d5f5b2120.jar" />
+    </item>
+
+</items>
