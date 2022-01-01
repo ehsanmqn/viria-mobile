@@ -20,7 +20,7 @@ import org.eclipse.paho.client.mqttv3.MqttMessage;
 public class MqttHelper {
     public MqttAndroidClient mqttAndroidClient;
 
-    final String serverUri = "tcp://192.168.1.110:1883";
+    final String serverUri = "tcp://10.42.0.105:1883";
 
     final String clientId = "ExampleAndroidClient";
     final String subscriptionTopic = "v1/devices/me/rpc/request/+";
