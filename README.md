@@ -1,5 +1,5 @@
 # Viria Android MQTT client to works with thingsboard
-A simple android application ceated as a siren when it recieves alert from thingsboard
+A simple android application created to work as a siren when it recieves alert from thingsboard
 
 ### Uses:
 - Android Studio
