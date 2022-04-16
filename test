@@ -1,0 +1,11 @@
+ get2PoleSSF(src, length) =>
+    PI = 2 * asin(1)
+    arg = sqrt(2) * PI / length
+    a1 = exp(-arg)
+    b1 = 2 * a1 * cos(arg)
+    c2 = b1
+    c3 = -pow(a1, 2)
+    c1 = 1 - c2 - c3
+    
+    ssf = 0.0
+    ssf := c1 * src + c2 * nz(ssf[1]) + c3 * nz(ssf[2]) 
